@@ -1,0 +1,3 @@
+public enum ZugPhase {
+    BEGINN, AKTION, CHARAKTER, VERSTAERKUNG, ZIEH, ENDE
+}
